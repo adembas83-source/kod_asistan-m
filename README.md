@@ -1,1 +1,4 @@
-# kod_asistan-m
+# Projenin Adı: Kod-Asistan v0.1
+## Projenin Amacı: Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcı olacak bir dijital asistan tasarlamak
+## Projenin Hedefleri: Bu asistanın ilerleyen zamanlarda hangi özellikleri kazanacağını (örneğin v1.0 Akıllı Menü, v2.0 Veri Saklama)
+## Kaynakça https://www.youtube.com/watch?v=BS17axd5gfE
